@@ -1,0 +1,120 @@
+.tw_small_layout{ 
+    overflow: hidden;
+    border-bottom: 5px solid #ababab;
+    max-height: 170px;
+    clear: both;
+}
+.tw_small_layout_square{ 
+    overflow: hidden; 
+    border-bottom: 5px solid #ababab;
+    max-height: 500px;
+    clear: both;
+    height: 270px;
+}
+.sidebar{
+    font-size: 12px;
+}
+.tw-content-holder{
+    clear: both;
+    position: relative;
+}
+.tw-content-holder-square{
+    display: block;
+    float: left;
+    width: 45%;
+    border: 1px solid #ababab;
+    margin: 2%;
+}
+.main_share_holder{
+    clear: both; 
+    margin-top: 10px;
+    height: 33px;
+}
+.share_holder{
+    float: left;
+}
+.fb-share-button-holder{
+    margin-top: 5px;
+}
+.twitter-share-button-holder{
+    margin-right: 5px;
+}
+.tw_pagination_holder{
+    margin-top: 10px;
+    height: 200px;
+}
+.tw_pagination_left{
+    width: 300px; 
+    height: 200px; 
+    float: left; 
+    overflow: hidden;
+}
+.tw_pagination_right{
+    width: 300px; 
+    height: 200px; 
+    float: right; 
+    overflow: hidden;
+}
+.tw_pagination_right .background_holder,
+.tw_pagination_left .background_holder{
+    height: 100px; 
+    overflow: hidden;
+    text-align: center; 
+    margin-bottom: 9px;
+}
+.tw_pagination_right a:nth-child(2),.tw_pagination_left a:nth-child(2){
+    background: #000; 
+    padding: 5px; 
+    line-height: 30px;
+}
+.sidebar .tw-read-more{
+    display: none;
+}
+.sidebar .tw_small_layout{
+    margin-bottom: 0px;
+}
+.rss-search h1{
+    font-size: 15px;
+    background: #242424;;
+    color: #fff;
+    padding: 10px;
+    line-height: 20px;
+}
+.rss-search a{
+    color: #fff;
+}
+.tw-content-holder-square h1{
+    font-size: 25px;
+    font-weight: bold;
+    background: rgba(30,30,30,.9);
+    color: #fff;
+    padding: 10px;
+    height: 100px;
+}
+.tw-content-holder-square h1 a{
+    color: #fff;
+    font-size: 22px;
+    line-height: 24px;
+}
+.layout-holder{
+    background: rgba(255,255,255,.9);
+    padding: 10px;
+    color: rgba(0,0,0,0.8);
+    line-height: 19px;
+    font-size: 13px;
+    height: 100px;
+}
+.tw-read-more{
+    left: 0px;
+    width: 100%;
+    padding: 10px;
+    background: #000;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.tw-read-more a{
+    color: #fff;
+}
+#tw-container{
+    clear: both;
+}
